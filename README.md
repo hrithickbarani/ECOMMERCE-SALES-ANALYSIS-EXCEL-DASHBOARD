@@ -4,7 +4,7 @@
 
 # **Ecommerce Sales Analysis Dashboard**
 
-The "Ecommerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
+his project simulates a real-world e-commerce sales analysis for Staples Inc., similar to work done at Kantar. Using transactional data, we identified profitability drivers, optimized inventory and pricing strategies, and automated reporting to improve decision-making. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
 
 - **Sales & Profit Analysis**: The project meticulously evaluated sales and profit metrics to provide a comprehensive overview of the financial performance. This analysis helped in understanding the revenue generation and profit margins within the e-commerce business.
 
